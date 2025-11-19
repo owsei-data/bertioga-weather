@@ -1,6 +1,6 @@
 # Weather Bertioga (2019–2025) ⛈️
 
-Dataset meteorológico da estação de Bertioga totalmente limpo, padronizado e pronto para uso em modelagem. Sem dores de cabeça com encoding, separadores estranhos ou buracos invisíveis nos dados.
+Dataset meteorológico da estação de Bertioga totalmente limpo, padronizado e pronto para uso em modelagem. Sem dores de cabeça com encoding, separadores estranhos ou buracos invisíveis nos dados. o dataset final conta com o ano de 2019 até 30/10/2025.
 
 ---
 
