@@ -9,7 +9,7 @@ Dataset meteorológico da estação de Bertioga totalmente limpo, padronizado e 
 Se você quer o **dataset final**, já limpo, é só baixar:
 
 ```bash
-wget https://raw.githubusercontent.com/owsei-data/bertioga-weather/main/weather-bertioga-2019-2025.csv
+!wget https://raw.githubusercontent.com/owsei-data/bertioga-weather/main/weather-bertioga-2019-2025.csv
 ```
 
 Ou clique aqui: **weather-bertioga-2019-2025.csv**
