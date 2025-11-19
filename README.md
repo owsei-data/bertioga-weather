@@ -43,7 +43,7 @@ Para transparência, o link da fonte oficial e orientações de download estão 
 
 ### 🔹 Auditoria e Buracos  
 Antes de juntar tudo, fiz uma auditoria exploratória. Achados:  
-- 2020 e o fim de 2025 têm **quase sem dados de chuva**.  
+- 2020 e o fim de 2025 está **quase sem dados de chuva**.  
 - 2023 está **sem dados de vento**.  
 
 📊 Análise completa: `notebooks/data.ipynb`
